@@ -1,6 +1,6 @@
 # Kafka Streaming Project (Python + Docker)
 
-Projeto de **streaming de dados** utilizando **:contentReference[oaicite:0]{index=0}**, com **Producer** e **Consumer** implementados em Python e execução local via **:contentReference[oaicite:1]{index=1}**.
+Projeto de **streaming de dados** utilizando **Docker + Kafka**, com **Producer** e **Consumer** implementados em Python e execução local via **:contentReference[oaicite:1]{index=1}**.
 
 O objetivo é demonstrar o funcionamento básico de uma arquitetura orientada a eventos, simulando ingestão e consumo de dados em tempo real.
 
